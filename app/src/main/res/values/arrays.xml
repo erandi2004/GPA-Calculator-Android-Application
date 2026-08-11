@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grade_options">
+        <item>A+ (4.0)</item>
+        <item>A (4.0)</item>
+        <item>A− (3.7)</item>
+        <item>B+ (3.3)</item>
+        <item>B (3.0)</item>
+        <item>B− (2.7)</item>
+        <item>C+ (2.3)</item>
+        <item>C (2.0)</item>
+        <item>C− (1.7)</item>
+        <item>D+ (1.3)</item>
+        <item>D (1.0)</item>
+        <item>F (0.0)</item>
+        <item>P (Excluded)</item>
+    </string-array>
+</resources>

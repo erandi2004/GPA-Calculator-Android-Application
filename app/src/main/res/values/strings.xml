@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string name="calculator_symbol">∑</string>
+    <string name="header_subtitle">Calculate your weighted GPA on a 4.0 scale</string>
+    <string name="your_courses">Your Courses</string>
+    <string name="course_help">Enter each course credit and select the grade you received.</string>
+    <string name="course">Course</string>
+    <string name="course_name_hint">Course name (optional)</string>
+    <string name="credits">CREDITS</string>
+    <string name="credits_hint">e.g. 3</string>
+    <string name="grade">GRADE</string>
+    <string name="add_course">＋  Add another course</string>
+    <string name="calculate_gpa">Calculate GPA</string>
+    <string name="calculated_gpa">YOUR GPA</string>
+    <string name="total_credits">Total Credits</string>
+    <string name="courses_counted">Courses Counted</string>
+    <string name="reset">Reset calculator</string>
+    <string name="footer_credit">Developed by Sadil Nethwan</string>
+    <string name="remove_symbol">×</string>
+    <string name="remove_course_description">Remove course %1$d</string>
+    <string name="maximum_courses">You can add up to 20 courses.</string>
+    <string name="minimum_courses">At least one course is required.</string>
+    <string name="enter_valid_credits">Enter a valid credit value.</string>
+    <string name="credits_range_error">Credits must be between 0 and 99.</string>
+    <string name="no_counted_courses">Add at least one graded course. P grades are excluded.</string>
+    <string name="calculator_reset">Calculator reset.</string>
+    <string name="performance_excellent">Excellent performance</string>
+    <string name="performance_very_good">Very good performance</string>
+    <string name="performance_good">Good performance</string>
+    <string name="performance_satisfactory">Satisfactory progress</string>
+    <string name="performance_improve">Keep working—you can improve</string>
+</resources>
