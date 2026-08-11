@@ -53,6 +53,6 @@ The debug APK will be created at:
 - App name and text: `app/src/main/res/values/strings.xml`
 - Colors: `app/src/main/res/values/colors.xml`
 - Grade values: `MainActivity.java`
-- Package name: `com.sadil.gpacalculator`
+- Package name: `com.erandi.gpacalculator`
 
-Developed by Sadil Nethwan.
+Developed by Erandi Dewmini.
